@@ -1,0 +1,2 @@
+# gaes
+trata contorlad fnciones 
